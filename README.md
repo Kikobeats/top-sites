@@ -20,7 +20,7 @@ $ npm install top-sites --save
 
 ```js
 const topSites = require('top-sites')
-console.log(topSites);
+console.log(topSites)
 
 // [
 //   {
