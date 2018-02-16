@@ -1,5 +1,7 @@
 # top-sites
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/top-sites.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/top-sites.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/top-sites/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/top-sites)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/top-sites.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/top-sites)
