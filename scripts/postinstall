@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+'use strict'
+
+const jsonFuture = require('json-future')
+const getStdin = require('get-stdin')
+const papa = require('papaparse')
+
+;(async () => {
+  const buffer = await getStdin()
+  const {data} = papa.parse(buffer, { header: true })
+  await jsonFuture.saveAsync('top-sites.json', data)
+})()
