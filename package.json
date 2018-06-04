@@ -30,7 +30,7 @@
   "dependencies": {
     "get-stdin": "~6.0.0",
     "json-future": "~2.1.2",
-    "papaparse": "~4.4.0"
+    "papaparse": "~4.5.0"
   },
   "devDependencies": {
     "ava": "latest",
