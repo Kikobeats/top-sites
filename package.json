@@ -54,7 +54,7 @@
   "scripts": {
     "clean": "rm -rf node_modules",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
-    "lint": "standard-markdown && standard",
+    "lint": "standard-markdown README.md && standard",
     "postinstall": "curl -sL https://moz.com/top500/domains/csv | ./scripts/postinstall",
     "precommit": "lint-staged",
     "pretest": "npm run lint",
