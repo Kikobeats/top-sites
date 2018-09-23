@@ -24,22 +24,30 @@ console.log(topSites)
 
 // [
 //   {
-//     "Rank": "1",
-//     "URL": "facebook.com/",
-//     "Linking Root Domains": "13470095",
-//     "External Links": "5252559787",
-//     "mozRank": "9.76",
-//     "mozTrust": "9.45"
+//     "rank": 1,
+//     "url": "facebook.com/",
+//     "linkingRootDomains": 14262527,
+//     "externalLinks": 3737324796,
+//     "mozRank": 9.8,
+//     "mozTrust": 9.5
 //   },
 //   {
-//     "Rank": "2",
-//     "URL": "twitter.com/",
-//     "Linking Root Domains": "9254014",
-//     "External Links": "7599398722",
-//     "mozRank": "9.58",
-//     "mozTrust": "9.38"
+//     "rank": 2,
+//     "url": "twitter.com/",
+//     "linkingRootDomains": 9729491,
+//     "externalLinks": 5342834850,
+//     "mozRank": 9.64,
+//     "mozTrust": 9.44
 //   },
-//   ...
+//   {
+//     "rank": 3,
+//     "url": "google.com/",
+//     "linkingRootDomains": 8080905,
+//     "externalLinks": 2262382094,
+//     "mozRank": 9.52,
+//     "mozTrust": 9.35
+//   },
+//   …
 // ]
 ```
 

@@ -3,7 +3,7 @@
   "description": "List of the top 500 domains and pages on the web",
   "homepage": "https://documentup.com/Kikobeats/top-sites",
   "version": "1.0.2",
-  "main": "index.js",
+  "main": "top-sites.json",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
@@ -28,9 +28,10 @@
     "websites"
   ],
   "dependencies": {
-    "get-stdin": "~6.0.0",
-    "json-future": "~2.1.2",
-    "papaparse": "~4.6.0"
+    "got": "~9.2.2",
+    "lodash": "~4.17.11",
+    "papaparse": "~4.6.0",
+    "write-json-file": "~3.0.2"
   },
   "devDependencies": {
     "ava": "latest",
@@ -55,7 +56,7 @@
     "clean": "rm -rf node_modules",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "lint": "standard-markdown README.md && standard",
-    "postinstall": "curl -sL https://moz.com/top500/domains/csv | ./scripts/postinstall",
+    "postinstall": "node scripts/postinstall",
     "precommit": "lint-staged",
     "pretest": "npm run lint",
     "pretty": "prettier-standard index.js {core,test,bin}/**/*.js --single-quote",

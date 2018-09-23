@@ -2,12 +2,26 @@
 
 'use strict'
 
-const jsonFuture = require('json-future')
-const getStdin = require('get-stdin')
+const { camelCase, reduce, mapKeys } = require('lodash')
+const writeJsonFile = require('write-json-file')
 const papa = require('papaparse')
+const got = require('got')
+
+// https://www.papaparse.com/docs#config
+const PARSER_OPTS = {
+  header: true,
+  trimHeaders: true,
+  dynamicTyping: true,
+  skipEmptyLines: true
+}
 
 ;(async () => {
-  const buffer = await getStdin()
-  const {data} = papa.parse(buffer, { header: true })
-  await jsonFuture.saveAsync('top-sites.json', data)
+  const { body } = await got('https://moz.com/top500/domains/csv')
+  const { data } = papa.parse(body, PARSER_OPTS)
+  const buffer = reduce(data, (acc, value) => {
+    const newValue = mapKeys(value, (value, key) => camelCase(key))
+    return [...acc, newValue]
+  }, [])
+
+  await writeJsonFile('top-sites.json', buffer)
 })()
