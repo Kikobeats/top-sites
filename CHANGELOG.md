@@ -1,3 +1,16 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2018-09-23)
+
+* Some improvements ([4d74620](https://github.com/Kikobeats/top-sites/commit/4d74620))
+* Update package.json ([20b0b8e](https://github.com/Kikobeats/top-sites/commit/20b0b8e))
+* Update package.json ([7cfb41d](https://github.com/Kikobeats/top-sites/commit/7cfb41d))
+* fix(package): update get-stdin to version 6.0.0 ([d3d7bf7](https://github.com/Kikobeats/top-sites/commit/d3d7bf7))
+* fix(package): update papaparse to version 4.4.0 ([06debb3](https://github.com/Kikobeats/top-sites/commit/06debb3))
+* fix(package): update papaparse to version 4.5.0 ([d0dbe63](https://github.com/Kikobeats/top-sites/commit/d0dbe63))
+* fix(package): update papaparse to version 4.6.0 ([a354286](https://github.com/Kikobeats/top-sites/commit/a354286))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2018-02-16)
 
