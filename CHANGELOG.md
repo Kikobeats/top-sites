@@ -1,3 +1,35 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="1.1.1"></a>
+## 1.1.1 (2018-10-30)
+
+
+
+<a name="1.1.0"></a>
+# 1.1.0 (2018-09-23)
+
+
+### Bug Fixes
+
+* **package:** update get-stdin to version 6.0.0 ([d3d7bf7](https://github.com/Kikobeats/top-sites/commit/d3d7bf7))
+* **package:** update papaparse to version 4.4.0 ([06debb3](https://github.com/Kikobeats/top-sites/commit/06debb3))
+* **package:** update papaparse to version 4.5.0 ([d0dbe63](https://github.com/Kikobeats/top-sites/commit/d0dbe63))
+* **package:** update papaparse to version 4.6.0 ([a354286](https://github.com/Kikobeats/top-sites/commit/a354286))
+
+
+
+<a name="1.0.2"></a>
+## 1.0.2 (2018-02-16)
+
+
+
+<a name="1.0.0"></a>
+# 1.0.0 (2018-02-16)
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2018-09-23)
 
@@ -36,6 +68,3 @@
 * Fix lint ([1be7974](https://github.com/Kikobeats/top-sites/commit/1be7974))
 * Update README.md ([2f7df9a](https://github.com/Kikobeats/top-sites/commit/2f7df9a))
 * docs(readme): add Greenkeeper badge ([fbbe102](https://github.com/Kikobeats/top-sites/commit/fbbe102))
-
-
-
