@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/Kikobeats/top-sites/compare/v1.1.1...v1.1.2) (2018-10-30)
+
+
+### Bug Fixes
+
+* **package:** update got to version 9.3.0 ([e9efd57](https://github.com/Kikobeats/top-sites/commit/e9efd57))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2018-10-30)
 

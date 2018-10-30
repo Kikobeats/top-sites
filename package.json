@@ -2,7 +2,7 @@
   "name": "top-sites",
   "description": "List of the top 500 domains and pages on the web",
   "homepage": "https://documentup.com/Kikobeats/top-sites",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "top-sites.json",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -104,5 +104,8 @@
     "scripts": {
       "prechangelog": "git-authors-cli"
     }
-  }
+  },
+  "contributors": [
+    "Travis CI <travis@travis-ci.org>"
+  ]
 }
