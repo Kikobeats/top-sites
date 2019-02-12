@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.6"></a>
+## [1.1.6](https://github.com/Kikobeats/top-sites/compare/v1.1.5...v1.1.6) (2019-02-12)
+
+
+### Bug Fixes
+
+* **package:** update write-json-file to version 3.1.0 ([fec4d08](https://github.com/Kikobeats/top-sites/commit/fec4d08))
+
+
+
 <a name="1.1.5"></a>
 ## [1.1.5](https://github.com/Kikobeats/top-sites/compare/v1.1.4...v1.1.5) (2019-01-17)
 
