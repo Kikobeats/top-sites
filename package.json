@@ -31,7 +31,7 @@
     "got": "~9.6.0",
     "lodash": "~4.17.11",
     "papaparse": "~4.6.0",
-    "write-json-file": "~3.0.2"
+    "write-json-file": "~3.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
