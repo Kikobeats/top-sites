@@ -16,7 +16,7 @@ const PARSER_OPTS = {
 }
 
 ;(async () => {
-  const { body } = await got('https://moz.com/top500/domains/csv')
+  const { body } = await got('https://moz.com/top-500/download/?table=top500Domains')
   const { data } = papa.parse(body, PARSER_OPTS)
   const buffer = reduce(data, (acc, value) => {
     const newValue = mapKeys(value, (value, key) => camelCase(key))
