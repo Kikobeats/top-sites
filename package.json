@@ -9,6 +9,12 @@
     "name": "Kiko Beats",
     "url": "https://kikobeats.com"
   },
+  "contributors": [
+    {
+      "name": "Travis CI",
+      "email": "travis@travis-ci.org"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kikobeats/top-sites.git"
@@ -31,6 +37,7 @@
     "got": "~9.6.0",
     "lodash": "~4.17.11",
     "papaparse": "~4.6.0",
+    "parse-decimal-number": "~1.0.0",
     "write-json-file": "~3.2.0"
   },
   "devDependencies": {
@@ -104,8 +111,5 @@
     "scripts": {
       "prechangelog": "git-authors-cli"
     }
-  },
-  "contributors": [
-    "Travis CI <travis@travis-ci.org>"
-  ]
+  }
 }

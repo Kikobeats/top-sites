@@ -9,17 +9,13 @@ test('list is valid', t => {
   forEach(topSites, topSite => {
     t.deepEqual(keys(topSite), [
       'rank',
-      'url',
+      'rootDomain',
       'linkingRootDomains',
-      'externalLinks',
-      'mozRank',
-      'mozTrust'
+      'domainAuthority'
     ])
     t.is(typeof topSite.rank, 'number')
-    t.is(typeof topSite.url, 'string')
+    t.is(typeof topSite.rootDomain, 'string')
     t.is(typeof topSite.linkingRootDomains, 'number')
-    t.is(typeof topSite.externalLinks, 'number')
-    t.is(typeof topSite.mozRank, 'number')
-    t.is(typeof topSite.mozTrust, 'number')
+    t.is(typeof topSite.domainAuthority, 'number')
   })
 })
