@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.12](https://github.com/Kikobeats/top-sites/compare/v1.1.11...v1.1.12) (2019-05-30)
+
+
+### Bug Fixes
+
+* **package:** update papaparse to version 5.0.0 ([99270f2](https://github.com/Kikobeats/top-sites/commit/99270f2))
+
+
+
 ### [1.1.11](https://github.com/Kikobeats/top-sites/compare/v1.1.10...v1.1.11) (2019-05-25)
 
 
