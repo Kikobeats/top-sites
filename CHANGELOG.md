@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.13](https://github.com/Kikobeats/top-sites/compare/v1.1.12...v1.1.13) (2019-06-19)
+
+
+### Bug Fixes
+
+* typo ([d504f33](https://github.com/Kikobeats/top-sites/commit/d504f33))
+
+
+### Build System
+
+* tweaks ([ea6c4ee](https://github.com/Kikobeats/top-sites/commit/ea6c4ee))
+* update meta ([433e720](https://github.com/Kikobeats/top-sites/commit/433e720))
+* update travis ([1374edc](https://github.com/Kikobeats/top-sites/commit/1374edc))
+
+
+
 ### [1.1.12](https://github.com/Kikobeats/top-sites/compare/v1.1.11...v1.1.12) (2019-05-30)
 
 
