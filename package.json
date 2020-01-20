@@ -36,7 +36,7 @@
   "dependencies": {
     "got": "~9.6.0",
     "lodash": "~4.17.11",
-    "papaparse": "~5.0.0",
+    "papaparse": "~5.1.1",
     "parse-decimal-number": "~1.0.0",
     "write-json-file": "~4.2.1"
   },
