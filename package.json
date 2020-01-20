@@ -55,7 +55,7 @@
     "npm-check-updates": "latest",
     "nyc": "latest",
     "prettier-standard": "latest",
-    "standard": "11",
+    "standard": "latest",
     "standard-markdown": "latest",
     "standard-version": "latest"
   },
@@ -96,15 +96,13 @@
     }
   },
   "lint-staged": {
-    "linters": {
-      "package.json": [
-        "finepack",
-        "git add"
-      ],
-      "*.js": [
-        "prettier-standard",
-        "git add"
-      ]
-    }
+    "package.json": [
+      "finepack",
+      "git add"
+    ],
+    "*.js": [
+      "prettier-standard",
+      "git add"
+    ]
   }
 }
