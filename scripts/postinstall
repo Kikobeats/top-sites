@@ -5,6 +5,8 @@
 const parseDecimalNumber = require('parse-decimal-number')
 const { includes, camelCase, reduce } = require('lodash')
 const writeJsonFile = require('write-json-file')
+const pAny = require('p-any')
+const cheerio = require('cheerio')
 
 const papa = require('papaparse')
 const got = require('got')
@@ -30,12 +32,43 @@ const toMap = obj =>
     {}
   )
 
-;(async () => {
-  const { body } = await got(
-    'https://moz.com/top-500/download/?table=top500Domains'
-  )
+const fromCSV = async () => {
+  const { body } = await got('https://moz.com/top-500/download/?table=top500Domains')
   const { data } = papa.parse(body, PARSER_OPTS)
   const buffer = reduce(data, (acc, obj) => [...acc, toMap(obj)], [])
+  return buffer
+}
 
-  await writeJsonFile('top-sites.json', buffer)
-})()
+const fromURL = async () => {
+  const { body } = await got('https://moz.com/top500')
+  const $ = cheerio.load(body)
+
+  const el = $('tbody tr')
+    .map(function (i, el) {
+      const selector = $(this)
+
+      return {
+        rank: Number(selector.find('td:nth-child(1)').text()),
+        rootDomain: selector.find('td:nth-child(2)').text(),
+        linkingRootDomains: Number(
+          selector
+            .find('td:nth-child(3)')
+            .text()
+            .replace(/,/g, '')
+        ),
+        domainAuthority: Number(selector.find('td:nth-child(4)').text())
+      }
+    })
+    .get()
+
+  return el
+}
+
+const main = async () => {
+  const data = await pAny([fromURL(), fromCSV()])g s
+  await writeJsonFile('top-sites.json', data)
+}
+
+main()
+  .catch(err => console.error(err) && process.exit(1))
+  .then(process.exit)
