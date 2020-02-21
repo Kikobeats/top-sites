@@ -50,12 +50,7 @@ const fromURL = async () => {
       return {
         rank: Number(selector.find('td:nth-child(1)').text()),
         rootDomain: selector.find('td:nth-child(2)').text(),
-        linkingRootDomains: Number(
-          selector
-            .find('td:nth-child(3)')
-            .text()
-            .replace(/,/g, '')
-        ),
+        linkingRootDomains: parseDecimalNumber(selector.find('td:nth-child(3)').text()),
         domainAuthority: Number(selector.find('td:nth-child(4)').text())
       }
     })
@@ -65,7 +60,7 @@ const fromURL = async () => {
 }
 
 const main = async () => {
-  const data = await pAny([fromURL(), fromCSV()])g s
+  const data = await pAny([fromURL(), fromCSV()])
   await writeJsonFile('top-sites.json', data)
 }
 
