@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.18](https://github.com/Kikobeats/top-sites/compare/v1.1.17...v1.1.18) (2020-02-21)
+
+
+### Bug Fixes
+
+* use the lib ([5e55cc2](https://github.com/Kikobeats/top-sites/commit/5e55cc23462f0b62fb5d89c9473db11143e0853d))
+
 ### [1.1.17](https://github.com/Kikobeats/top-sites/compare/v1.1.16...v1.1.17) (2020-02-10)
 
 ### [1.1.16](https://github.com/Kikobeats/top-sites/compare/v1.1.15...v1.1.16) (2020-02-07)
