@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "cheerio": "~1.0.0-rc.3",
-    "got": "~11.3.0",
+    "got": "~11.4.0",
     "lodash": "~4.17.15",
     "p-any": "~3.0.0",
     "papaparse": "~5.2.0",
@@ -82,7 +82,7 @@
     "release:github": "conventional-github-releaser -p angular",
     "release:tags": "git push --follow-tags origin HEAD:master",
     "test": "nyc ava",
-    "update": "ncu -a",
+    "update": "ncu -u",
     "update:check": "ncu -- --error-level 2"
   },
   "license": "MIT",
