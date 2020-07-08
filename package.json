@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "cheerio": "~1.0.0-rc.3",
-    "got": "~11.4.0",
+    "got": "~11.5.0",
     "lodash": "~4.17.15",
     "p-any": "~3.0.0",
     "papaparse": "~5.2.0",
