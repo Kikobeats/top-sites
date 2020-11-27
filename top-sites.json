@@ -1,0 +1,3002 @@
+[
+	{
+		"rank": 1,
+		"rootDomain": "youtube.com",
+		"linkingRootDomains": 17985230,
+		"domainAuthority": 100
+	},
+	{
+		"rank": 2,
+		"rootDomain": "apple.com",
+		"linkingRootDomains": 4549680,
+		"domainAuthority": 100
+	},
+	{
+		"rank": 3,
+		"rootDomain": "www.google.com",
+		"linkingRootDomains": 12218030,
+		"domainAuthority": 100
+	},
+	{
+		"rank": 4,
+		"rootDomain": "microsoft.com",
+		"linkingRootDomains": 4601453,
+		"domainAuthority": 99
+	},
+	{
+		"rank": 5,
+		"rootDomain": "cloudflare.com",
+		"linkingRootDomains": 5239293,
+		"domainAuthority": 99
+	},
+	{
+		"rank": 6,
+		"rootDomain": "www.blogger.com",
+		"linkingRootDomains": 25578174,
+		"domainAuthority": 99
+	},
+	{
+		"rank": 7,
+		"rootDomain": "support.google.com",
+		"linkingRootDomains": 4644243,
+		"domainAuthority": 99
+	},
+	{
+		"rank": 8,
+		"rootDomain": "play.google.com",
+		"linkingRootDomains": 2381759,
+		"domainAuthority": 99
+	},
+	{
+		"rank": 9,
+		"rootDomain": "linkedin.com",
+		"linkingRootDomains": 9062949,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 10,
+		"rootDomain": "maps.google.com",
+		"linkingRootDomains": 4370218,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 11,
+		"rootDomain": "adobe.com",
+		"linkingRootDomains": 2813122,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 12,
+		"rootDomain": "docs.google.com",
+		"linkingRootDomains": 2277786,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 13,
+		"rootDomain": "wordpress.org",
+		"linkingRootDomains": 10063356,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 14,
+		"rootDomain": "en.wikipedia.org",
+		"linkingRootDomains": 5425193,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 15,
+		"rootDomain": "mozilla.org",
+		"linkingRootDomains": 1925015,
+		"domainAuthority": 98
+	},
+	{
+		"rank": 16,
+		"rootDomain": "plus.google.com",
+		"linkingRootDomains": 11734652,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 17,
+		"rootDomain": "sites.google.com",
+		"linkingRootDomains": 1721080,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 18,
+		"rootDomain": "googleusercontent.com",
+		"linkingRootDomains": 2169264,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 19,
+		"rootDomain": "accounts.google.com",
+		"linkingRootDomains": 2532531,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 20,
+		"rootDomain": "europa.eu",
+		"linkingRootDomains": 1669285,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 21,
+		"rootDomain": "youtu.be",
+		"linkingRootDomains": 3893923,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 22,
+		"rootDomain": "vimeo.com",
+		"linkingRootDomains": 3078058,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 23,
+		"rootDomain": "drive.google.com",
+		"linkingRootDomains": 1797213,
+		"domainAuthority": 97
+	},
+	{
+		"rank": 24,
+		"rootDomain": "cnn.com",
+		"linkingRootDomains": 1213760,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 25,
+		"rootDomain": "github.com",
+		"linkingRootDomains": 2023807,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 26,
+		"rootDomain": "es.wikipedia.org",
+		"linkingRootDomains": 774480,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 27,
+		"rootDomain": "medium.com",
+		"linkingRootDomains": 1141933,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 28,
+		"rootDomain": "istockphoto.com",
+		"linkingRootDomains": 3117065,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 29,
+		"rootDomain": "facebook.com",
+		"linkingRootDomains": 45999468,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 30,
+		"rootDomain": "bp.blogspot.com",
+		"linkingRootDomains": 16053350,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 31,
+		"rootDomain": "bbc.co.uk",
+		"linkingRootDomains": 1405358,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 32,
+		"rootDomain": "amazon.com",
+		"linkingRootDomains": 4004095,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 33,
+		"rootDomain": "line.me",
+		"linkingRootDomains": 627710,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 34,
+		"rootDomain": "vk.com",
+		"linkingRootDomains": 1604259,
+		"domainAuthority": 96
+	},
+	{
+		"rank": 35,
+		"rootDomain": "paypal.com",
+		"linkingRootDomains": 900272,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 36,
+		"rootDomain": "policies.google.com",
+		"linkingRootDomains": 1127062,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 37,
+		"rootDomain": "msn.com",
+		"linkingRootDomains": 979557,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 38,
+		"rootDomain": "uol.com.br",
+		"linkingRootDomains": 563211,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 39,
+		"rootDomain": "developers.google.com",
+		"linkingRootDomains": 894253,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 40,
+		"rootDomain": "whatsapp.com",
+		"linkingRootDomains": 1957860,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 41,
+		"rootDomain": "fr.wikipedia.org",
+		"linkingRootDomains": 533839,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 42,
+		"rootDomain": "pt.wikipedia.org",
+		"linkingRootDomains": 356343,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 43,
+		"rootDomain": "opera.com",
+		"linkingRootDomains": 745581,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 44,
+		"rootDomain": "who.int",
+		"linkingRootDomains": 2019679,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 45,
+		"rootDomain": "www.yahoo.com",
+		"linkingRootDomains": 925797,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 46,
+		"rootDomain": "imdb.com",
+		"linkingRootDomains": 1222164,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 47,
+		"rootDomain": "w3.org",
+		"linkingRootDomains": 1049377,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 48,
+		"rootDomain": "reuters.com",
+		"linkingRootDomains": 722456,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 49,
+		"rootDomain": "gstatic.com",
+		"linkingRootDomains": 583413,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 50,
+		"rootDomain": "mail.google.com",
+		"linkingRootDomains": 438319,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 51,
+		"rootDomain": "myspace.com",
+		"linkingRootDomains": 1245211,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 52,
+		"rootDomain": "hugedomains.com",
+		"linkingRootDomains": 4948591,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 53,
+		"rootDomain": "t.me",
+		"linkingRootDomains": 567921,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 54,
+		"rootDomain": "news.yahoo.com",
+		"linkingRootDomains": 583151,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 55,
+		"rootDomain": "dailymotion.com",
+		"linkingRootDomains": 1061684,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 56,
+		"rootDomain": "google.es",
+		"linkingRootDomains": 413886,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 57,
+		"rootDomain": "nytimes.com",
+		"linkingRootDomains": 1676643,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 58,
+		"rootDomain": "mail.ru",
+		"linkingRootDomains": 473911,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 59,
+		"rootDomain": "globo.com",
+		"linkingRootDomains": 380428,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 60,
+		"rootDomain": "jimdofree.com",
+		"linkingRootDomains": 1667718,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 61,
+		"rootDomain": "dropbox.com",
+		"linkingRootDomains": 927434,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 62,
+		"rootDomain": "google.co.jp",
+		"linkingRootDomains": 624543,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 63,
+		"rootDomain": "google.co.uk",
+		"linkingRootDomains": 535270,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 64,
+		"rootDomain": "forbes.com",
+		"linkingRootDomains": 1136201,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 65,
+		"rootDomain": "get.google.com",
+		"linkingRootDomains": 751977,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 66,
+		"rootDomain": "google.com.br",
+		"linkingRootDomains": 262906,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 67,
+		"rootDomain": "live.com",
+		"linkingRootDomains": 731468,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 68,
+		"rootDomain": "bbc.com",
+		"linkingRootDomains": 662501,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 69,
+		"rootDomain": "google.de",
+		"linkingRootDomains": 1074189,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 70,
+		"rootDomain": "news.google.com",
+		"linkingRootDomains": 690228,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 71,
+		"rootDomain": "feedburner.com",
+		"linkingRootDomains": 1696378,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 72,
+		"rootDomain": "theguardian.com",
+		"linkingRootDomains": 1192402,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 73,
+		"rootDomain": "washingtonpost.com",
+		"linkingRootDomains": 865962,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 74,
+		"rootDomain": "nih.gov",
+		"linkingRootDomains": 1047939,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 75,
+		"rootDomain": "slideshare.net",
+		"linkingRootDomains": 875598,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 76,
+		"rootDomain": "wikimedia.org",
+		"linkingRootDomains": 1367430,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 77,
+		"rootDomain": "creativecommons.org",
+		"linkingRootDomains": 1557744,
+		"domainAuthority": 95
+	},
+	{
+		"rank": 78,
+		"rootDomain": "webmd.com",
+		"linkingRootDomains": 546685,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 79,
+		"rootDomain": "businessinsider.com",
+		"linkingRootDomains": 572215,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 80,
+		"rootDomain": "it.wikipedia.org",
+		"linkingRootDomains": 280612,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 81,
+		"rootDomain": "amazon.co.uk",
+		"linkingRootDomains": 626169,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 82,
+		"rootDomain": "android.com",
+		"linkingRootDomains": 260808,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 83,
+		"rootDomain": "picasaweb.google.com",
+		"linkingRootDomains": 607645,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 84,
+		"rootDomain": "ig.com.br",
+		"linkingRootDomains": 130563,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 85,
+		"rootDomain": "issuu.com",
+		"linkingRootDomains": 843428,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 86,
+		"rootDomain": "wired.com",
+		"linkingRootDomains": 531261,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 87,
+		"rootDomain": "mediafire.com",
+		"linkingRootDomains": 762846,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 88,
+		"rootDomain": "terra.com.br",
+		"linkingRootDomains": 185060,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 89,
+		"rootDomain": "wsj.com",
+		"linkingRootDomains": 795831,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 90,
+		"rootDomain": "files.wordpress.com",
+		"linkingRootDomains": 1983100,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 91,
+		"rootDomain": "lefigaro.fr",
+		"linkingRootDomains": 186496,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 92,
+		"rootDomain": "abcnews.go.com",
+		"linkingRootDomains": 469157,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 93,
+		"rootDomain": "foxnews.com",
+		"linkingRootDomains": 450838,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 94,
+		"rootDomain": "themeforest.net",
+		"linkingRootDomains": 503924,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 95,
+		"rootDomain": "youronlinechoices.com",
+		"linkingRootDomains": 504820,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 96,
+		"rootDomain": "google.ru",
+		"linkingRootDomains": 174729,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 97,
+		"rootDomain": "tinyurl.com",
+		"linkingRootDomains": 1247722,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 98,
+		"rootDomain": "usatoday.com",
+		"linkingRootDomains": 636348,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 99,
+		"rootDomain": "scribd.com",
+		"linkingRootDomains": 650253,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 100,
+		"rootDomain": "elpais.com",
+		"linkingRootDomains": 322731,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 101,
+		"rootDomain": "translate.google.com",
+		"linkingRootDomains": 271740,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 102,
+		"rootDomain": "wikia.com",
+		"linkingRootDomains": 455847,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 103,
+		"rootDomain": "dan.com",
+		"linkingRootDomains": 1827203,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 104,
+		"rootDomain": "telegram.me",
+		"linkingRootDomains": 274104,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 105,
+		"rootDomain": "cpanel.com",
+		"linkingRootDomains": 1223550,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 106,
+		"rootDomain": "namecheap.com",
+		"linkingRootDomains": 987205,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 107,
+		"rootDomain": "bing.com",
+		"linkingRootDomains": 892568,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 108,
+		"rootDomain": "ft.com",
+		"linkingRootDomains": 349718,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 109,
+		"rootDomain": "independent.co.uk",
+		"linkingRootDomains": 514620,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 110,
+		"rootDomain": "archive.org",
+		"linkingRootDomains": 882068,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 111,
+		"rootDomain": "de.wikipedia.org",
+		"linkingRootDomains": 586722,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 112,
+		"rootDomain": "plesk.com",
+		"linkingRootDomains": 704198,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 113,
+		"rootDomain": "www.gov.uk",
+		"linkingRootDomains": 484135,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 114,
+		"rootDomain": "dailymail.co.uk",
+		"linkingRootDomains": 771007,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 115,
+		"rootDomain": "mirror.co.uk",
+		"linkingRootDomains": 255278,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 116,
+		"rootDomain": "aol.com",
+		"linkingRootDomains": 653345,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 117,
+		"rootDomain": "cdc.gov",
+		"linkingRootDomains": 655157,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 118,
+		"rootDomain": "code.google.com",
+		"linkingRootDomains": 316287,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 119,
+		"rootDomain": "marketingplatform.google.com",
+		"linkingRootDomains": 753884,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 120,
+		"rootDomain": "google.it",
+		"linkingRootDomains": 404282,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 121,
+		"rootDomain": "gravatar.com",
+		"linkingRootDomains": 1684672,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 122,
+		"rootDomain": "aliexpress.com",
+		"linkingRootDomains": 440075,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 123,
+		"rootDomain": "fandom.com",
+		"linkingRootDomains": 430469,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 124,
+		"rootDomain": "cpanel.net",
+		"linkingRootDomains": 1309362,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 125,
+		"rootDomain": "huffingtonpost.com",
+		"linkingRootDomains": 866577,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 126,
+		"rootDomain": "myaccount.google.com",
+		"linkingRootDomains": 265414,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 127,
+		"rootDomain": "un.org",
+		"linkingRootDomains": 423765,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 128,
+		"rootDomain": "thesun.co.uk",
+		"linkingRootDomains": 252484,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 129,
+		"rootDomain": "networkadvertising.org",
+		"linkingRootDomains": 692021,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 130,
+		"rootDomain": "photos.google.com",
+		"linkingRootDomains": 228462,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 131,
+		"rootDomain": "hatena.ne.jp",
+		"linkingRootDomains": 1451901,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 132,
+		"rootDomain": "samsung.com",
+		"linkingRootDomains": 301633,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 133,
+		"rootDomain": "pinterest.com",
+		"linkingRootDomains": 7334564,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 134,
+		"rootDomain": "www.wix.com",
+		"linkingRootDomains": 903536,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 135,
+		"rootDomain": "bit.ly",
+		"linkingRootDomains": 4081299,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 136,
+		"rootDomain": "telegraph.co.uk",
+		"linkingRootDomains": 766059,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 137,
+		"rootDomain": "amazon.de",
+		"linkingRootDomains": 489636,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 138,
+		"rootDomain": "steampowered.com",
+		"linkingRootDomains": 216636,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 139,
+		"rootDomain": "latimes.com",
+		"linkingRootDomains": 573671,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 140,
+		"rootDomain": "ok.ru",
+		"linkingRootDomains": 329547,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 141,
+		"rootDomain": "office.com",
+		"linkingRootDomains": 352477,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 142,
+		"rootDomain": "bloomberg.com",
+		"linkingRootDomains": 675724,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 143,
+		"rootDomain": "booking.com",
+		"linkingRootDomains": 352402,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 144,
+		"rootDomain": "harvard.edu",
+		"linkingRootDomains": 584244,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 145,
+		"rootDomain": "twitter.com",
+		"linkingRootDomains": 48572079,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 146,
+		"rootDomain": "fb.com",
+		"linkingRootDomains": 359732,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 147,
+		"rootDomain": "goo.gl",
+		"linkingRootDomains": 4173138,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 148,
+		"rootDomain": "books.google.com",
+		"linkingRootDomains": 342559,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 149,
+		"rootDomain": "nasa.gov",
+		"linkingRootDomains": 546687,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 150,
+		"rootDomain": "change.org",
+		"linkingRootDomains": 400964,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 151,
+		"rootDomain": "cnet.com",
+		"linkingRootDomains": 549389,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 152,
+		"rootDomain": "search.google.com",
+		"linkingRootDomains": 1031817,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 153,
+		"rootDomain": "amazon.co.jp",
+		"linkingRootDomains": 772069,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 154,
+		"rootDomain": "tools.google.com",
+		"linkingRootDomains": 1470430,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 155,
+		"rootDomain": "google.fr",
+		"linkingRootDomains": 380338,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 156,
+		"rootDomain": "ebay.com",
+		"linkingRootDomains": 865676,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 157,
+		"rootDomain": "abril.com.br",
+		"linkingRootDomains": 223479,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 158,
+		"rootDomain": "buydomains.com",
+		"linkingRootDomains": 1125964,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 159,
+		"rootDomain": "rakuten.co.jp",
+		"linkingRootDomains": 581905,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 160,
+		"rootDomain": "time.com",
+		"linkingRootDomains": 608741,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 161,
+		"rootDomain": "id.wikipedia.org",
+		"linkingRootDomains": 410590,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 162,
+		"rootDomain": "draft.blogger.com",
+		"linkingRootDomains": 9895844,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 163,
+		"rootDomain": "aboutads.info",
+		"linkingRootDomains": 481353,
+		"domainAuthority": 94
+	},
+	{
+		"rank": 164,
+		"rootDomain": "bloglovin.com",
+		"linkingRootDomains": 445111,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 165,
+		"rootDomain": "urbandictionary.com",
+		"linkingRootDomains": 204393,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 166,
+		"rootDomain": "umich.edu",
+		"linkingRootDomains": 287211,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 167,
+		"rootDomain": "hm.com",
+		"linkingRootDomains": 153142,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 168,
+		"rootDomain": "my.yahoo.com",
+		"linkingRootDomains": 1138499,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 169,
+		"rootDomain": "chicagotribune.com",
+		"linkingRootDomains": 295235,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 170,
+		"rootDomain": "addthis.com",
+		"linkingRootDomains": 692279,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 171,
+		"rootDomain": "nginx.org",
+		"linkingRootDomains": 558648,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 172,
+		"rootDomain": "google.nl",
+		"linkingRootDomains": 218529,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 173,
+		"rootDomain": "columbia.edu",
+		"linkingRootDomains": 273379,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 174,
+		"rootDomain": "detik.com",
+		"linkingRootDomains": 352601,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 175,
+		"rootDomain": "ibm.com",
+		"linkingRootDomains": 434726,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 176,
+		"rootDomain": "rapidshare.com",
+		"linkingRootDomains": 279418,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 177,
+		"rootDomain": "kickstarter.com",
+		"linkingRootDomains": 401395,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 178,
+		"rootDomain": "newsweek.com",
+		"linkingRootDomains": 243141,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 179,
+		"rootDomain": "ovh.net",
+		"linkingRootDomains": 667384,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 180,
+		"rootDomain": "npr.org",
+		"linkingRootDomains": 594815,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 181,
+		"rootDomain": "economist.com",
+		"linkingRootDomains": 301475,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 182,
+		"rootDomain": "scoop.it",
+		"linkingRootDomains": 335531,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 183,
+		"rootDomain": "sciencedirect.com",
+		"linkingRootDomains": 420973,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 184,
+		"rootDomain": "guardian.co.uk",
+		"linkingRootDomains": 516969,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 185,
+		"rootDomain": "netvibes.com",
+		"linkingRootDomains": 1155392,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 186,
+		"rootDomain": "ria.ru",
+		"linkingRootDomains": 154181,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 187,
+		"rootDomain": "washington.edu",
+		"linkingRootDomains": 305437,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 188,
+		"rootDomain": "privacyshield.gov",
+		"linkingRootDomains": 407979,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 189,
+		"rootDomain": "gnu.org",
+		"linkingRootDomains": 553837,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 190,
+		"rootDomain": "ggpht.com",
+		"linkingRootDomains": 571753,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 191,
+		"rootDomain": "enable-javascript.com",
+		"linkingRootDomains": 1248392,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 192,
+		"rootDomain": "pixabay.com",
+		"linkingRootDomains": 295825,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 193,
+		"rootDomain": "cbsnews.com",
+		"linkingRootDomains": 423866,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 194,
+		"rootDomain": "engadget.com",
+		"linkingRootDomains": 396279,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 195,
+		"rootDomain": "lemonde.fr",
+		"linkingRootDomains": 222505,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 196,
+		"rootDomain": "yahoo.co.jp",
+		"linkingRootDomains": 616253,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 197,
+		"rootDomain": "britannica.com",
+		"linkingRootDomains": 268359,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 198,
+		"rootDomain": "yandex.ru",
+		"linkingRootDomains": 919873,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 199,
+		"rootDomain": "buzzfeed.com",
+		"linkingRootDomains": 443370,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 200,
+		"rootDomain": "instructables.com",
+		"linkingRootDomains": 272905,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 201,
+		"rootDomain": "techcrunch.com",
+		"linkingRootDomains": 387910,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 202,
+		"rootDomain": "dw.com",
+		"linkingRootDomains": 219381,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 203,
+		"rootDomain": "imageshack.us",
+		"linkingRootDomains": 780252,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 204,
+		"rootDomain": "adssettings.google.com",
+		"linkingRootDomains": 292562,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 205,
+		"rootDomain": "nokia.com",
+		"linkingRootDomains": 156519,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 206,
+		"rootDomain": "groups.google.com",
+		"linkingRootDomains": 298209,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 207,
+		"rootDomain": "secureserver.net",
+		"linkingRootDomains": 972240,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 208,
+		"rootDomain": "ovh.com",
+		"linkingRootDomains": 426324,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 209,
+		"rootDomain": "hp.com",
+		"linkingRootDomains": 384754,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 210,
+		"rootDomain": "ietf.org",
+		"linkingRootDomains": 339634,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 211,
+		"rootDomain": "whitehouse.gov",
+		"linkingRootDomains": 311203,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 212,
+		"rootDomain": "amazon.es",
+		"linkingRootDomains": 146886,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 213,
+		"rootDomain": "oup.com",
+		"linkingRootDomains": 310921,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 214,
+		"rootDomain": "stackoverflow.com",
+		"linkingRootDomains": 284481,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 215,
+		"rootDomain": "wp.com",
+		"linkingRootDomains": 912310,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 216,
+		"rootDomain": "depositfiles.com",
+		"linkingRootDomains": 138780,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 217,
+		"rootDomain": "yelp.com",
+		"linkingRootDomains": 818637,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 218,
+		"rootDomain": "playstation.com",
+		"linkingRootDomains": 181214,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 219,
+		"rootDomain": "rt.com",
+		"linkingRootDomains": 228555,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 220,
+		"rootDomain": "amazon.fr",
+		"linkingRootDomains": 218046,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 221,
+		"rootDomain": "ted.com",
+		"linkingRootDomains": 476489,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 222,
+		"rootDomain": "list-manage.com",
+		"linkingRootDomains": 657389,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 223,
+		"rootDomain": "google.com.tw",
+		"linkingRootDomains": 127641,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 224,
+		"rootDomain": "finance.yahoo.com",
+		"linkingRootDomains": 368021,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 225,
+		"rootDomain": "m.wikipedia.org",
+		"linkingRootDomains": 227016,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 226,
+		"rootDomain": "search.yahoo.com",
+		"linkingRootDomains": 422372,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 227,
+		"rootDomain": "discord.gg",
+		"linkingRootDomains": 178209,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 228,
+		"rootDomain": "bandcamp.com",
+		"linkingRootDomains": 508621,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 229,
+		"rootDomain": "naver.jp",
+		"linkingRootDomains": 128333,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 230,
+		"rootDomain": "ipv4.google.com",
+		"linkingRootDomains": 351924,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 231,
+		"rootDomain": "walmart.com",
+		"linkingRootDomains": 266418,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 232,
+		"rootDomain": "over-blog-kiwi.com",
+		"linkingRootDomains": 178404,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 233,
+		"rootDomain": "researchgate.net",
+		"linkingRootDomains": 321027,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 234,
+		"rootDomain": "instagram.com",
+		"linkingRootDomains": 21136368,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 235,
+		"rootDomain": "elmundo.es",
+		"linkingRootDomains": 190676,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 236,
+		"rootDomain": "nature.com",
+		"linkingRootDomains": 438884,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 237,
+		"rootDomain": "ign.com",
+		"linkingRootDomains": 231019,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 238,
+		"rootDomain": "abc.net.au",
+		"linkingRootDomains": 321878,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 239,
+		"rootDomain": "addtoany.com",
+		"linkingRootDomains": 715115,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 240,
+		"rootDomain": "cnbc.com",
+		"linkingRootDomains": 393925,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 241,
+		"rootDomain": "goo.ne.jp",
+		"linkingRootDomains": 295820,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 242,
+		"rootDomain": "yale.edu",
+		"linkingRootDomains": 273899,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 243,
+		"rootDomain": "quora.com",
+		"linkingRootDomains": 304991,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 244,
+		"rootDomain": "gizmodo.com",
+		"linkingRootDomains": 337078,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 245,
+		"rootDomain": "mysql.com",
+		"linkingRootDomains": 389518,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 246,
+		"rootDomain": "godaddy.com",
+		"linkingRootDomains": 2374504,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 247,
+		"rootDomain": "000webhost.com",
+		"linkingRootDomains": 263227,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 248,
+		"rootDomain": "shutterstock.com",
+		"linkingRootDomains": 250731,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 249,
+		"rootDomain": "ru.wikipedia.org",
+		"linkingRootDomains": 350514,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 250,
+		"rootDomain": "hollywoodreporter.com",
+		"linkingRootDomains": 212853,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 251,
+		"rootDomain": "biglobe.ne.jp",
+		"linkingRootDomains": 222235,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 252,
+		"rootDomain": "abc.es",
+		"linkingRootDomains": 155809,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 253,
+		"rootDomain": "trustpilot.com",
+		"linkingRootDomains": 331998,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 254,
+		"rootDomain": "weibo.com",
+		"linkingRootDomains": 1473649,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 255,
+		"rootDomain": "ytimg.com",
+		"linkingRootDomains": 252036,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 256,
+		"rootDomain": "akamaihd.net",
+		"linkingRootDomains": 410676,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 257,
+		"rootDomain": "nypost.com",
+		"linkingRootDomains": 283851,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 258,
+		"rootDomain": "mozilla.com",
+		"linkingRootDomains": 196204,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 259,
+		"rootDomain": "forms.gle",
+		"linkingRootDomains": 359928,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 260,
+		"rootDomain": "www.over-blog.com",
+		"linkingRootDomains": 771124,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 261,
+		"rootDomain": "ja.wikipedia.org",
+		"linkingRootDomains": 325187,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 262,
+		"rootDomain": "sendspace.com",
+		"linkingRootDomains": 149200,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 263,
+		"rootDomain": "gofundme.com",
+		"linkingRootDomains": 271263,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 264,
+		"rootDomain": "yadi.sk",
+		"linkingRootDomains": 172841,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 265,
+		"rootDomain": "cornell.edu",
+		"linkingRootDomains": 367449,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 266,
+		"rootDomain": "express.co.uk",
+		"linkingRootDomains": 201485,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 267,
+		"rootDomain": "unesco.org",
+		"linkingRootDomains": 253687,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 268,
+		"rootDomain": "news.com.au",
+		"linkingRootDomains": 256984,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 269,
+		"rootDomain": "nicovideo.jp",
+		"linkingRootDomains": 137391,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 270,
+		"rootDomain": "disqus.com",
+		"linkingRootDomains": 914066,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 271,
+		"rootDomain": "noaa.gov",
+		"linkingRootDomains": 281196,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 272,
+		"rootDomain": "theglobeandmail.com",
+		"linkingRootDomains": 217341,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 273,
+		"rootDomain": "loc.gov",
+		"linkingRootDomains": 367200,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 274,
+		"rootDomain": "php.net",
+		"linkingRootDomains": 622392,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 275,
+		"rootDomain": "t.co",
+		"linkingRootDomains": 1687429,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 276,
+		"rootDomain": "metro.co.uk",
+		"linkingRootDomains": 173844,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 277,
+		"rootDomain": "bp2.blogger.com",
+		"linkingRootDomains": 521368,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 278,
+		"rootDomain": "storage.googleapis.com",
+		"linkingRootDomains": 518887,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 279,
+		"rootDomain": "netflix.com",
+		"linkingRootDomains": 243324,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 280,
+		"rootDomain": "google.co.in",
+		"linkingRootDomains": 238262,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 281,
+		"rootDomain": "mit.edu",
+		"linkingRootDomains": 564399,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 282,
+		"rootDomain": "bt.com",
+		"linkingRootDomains": 169435,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 283,
+		"rootDomain": "nikkei.com",
+		"linkingRootDomains": 190222,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 284,
+		"rootDomain": "digg.com",
+		"linkingRootDomains": 820011,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 285,
+		"rootDomain": "sapo.pt",
+		"linkingRootDomains": 204381,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 286,
+		"rootDomain": "picasa.google.com",
+		"linkingRootDomains": 247326,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 287,
+		"rootDomain": "cambridge.org",
+		"linkingRootDomains": 222271,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 288,
+		"rootDomain": "ea.com",
+		"linkingRootDomains": 157557,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 289,
+		"rootDomain": "ikea.com",
+		"linkingRootDomains": 261245,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 290,
+		"rootDomain": "nydailynews.com",
+		"linkingRootDomains": 299216,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 291,
+		"rootDomain": "vice.com",
+		"linkingRootDomains": 304270,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 292,
+		"rootDomain": "usnews.com",
+		"linkingRootDomains": 321320,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 293,
+		"rootDomain": "mega.nz",
+		"linkingRootDomains": 151138,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 294,
+		"rootDomain": "alibaba.com",
+		"linkingRootDomains": 363777,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 295,
+		"rootDomain": "arxiv.org",
+		"linkingRootDomains": 178010,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 296,
+		"rootDomain": "psychologytoday.com",
+		"linkingRootDomains": 270502,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 297,
+		"rootDomain": "deezer.com",
+		"linkingRootDomains": 126300,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 298,
+		"rootDomain": "afternic.com",
+		"linkingRootDomains": 1502414,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 299,
+		"rootDomain": "bitly.com",
+		"linkingRootDomains": 350739,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 300,
+		"rootDomain": "pbs.org",
+		"linkingRootDomains": 419484,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 301,
+		"rootDomain": "princeton.edu",
+		"linkingRootDomains": 276770,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 302,
+		"rootDomain": "photobucket.com",
+		"linkingRootDomains": 1570165,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 303,
+		"rootDomain": "sciencemag.org",
+		"linkingRootDomains": 263578,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 304,
+		"rootDomain": "soundcloud.com",
+		"linkingRootDomains": 1560767,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 305,
+		"rootDomain": "google.pl",
+		"linkingRootDomains": 191269,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 306,
+		"rootDomain": "nvidia.com",
+		"linkingRootDomains": 144500,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 307,
+		"rootDomain": "blackberry.com",
+		"linkingRootDomains": 133600,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 308,
+		"rootDomain": "pl.wikipedia.org",
+		"linkingRootDomains": 127564,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 309,
+		"rootDomain": "ovh.co.uk",
+		"linkingRootDomains": 522443,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 310,
+		"rootDomain": "smh.com.au",
+		"linkingRootDomains": 260229,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 311,
+		"rootDomain": "4shared.com",
+		"linkingRootDomains": 506208,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 312,
+		"rootDomain": "skype.com",
+		"linkingRootDomains": 367837,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 313,
+		"rootDomain": "welt.de",
+		"linkingRootDomains": 157342,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 314,
+		"rootDomain": "apache.org",
+		"linkingRootDomains": 872504,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 315,
+		"rootDomain": "goodreads.com",
+		"linkingRootDomains": 671640,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 316,
+		"rootDomain": "eventbrite.com",
+		"linkingRootDomains": 533985,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 317,
+		"rootDomain": "worldbank.org",
+		"linkingRootDomains": 201748,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 318,
+		"rootDomain": "disney.com",
+		"linkingRootDomains": 210183,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 319,
+		"rootDomain": "nbcnews.com",
+		"linkingRootDomains": 385921,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 320,
+		"rootDomain": "theatlantic.com",
+		"linkingRootDomains": 422093,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 321,
+		"rootDomain": "theverge.com",
+		"linkingRootDomains": 302574,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 322,
+		"rootDomain": "wikihow.com",
+		"linkingRootDomains": 346239,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 323,
+		"rootDomain": "about.com",
+		"linkingRootDomains": 664139,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 324,
+		"rootDomain": "stanford.edu",
+		"linkingRootDomains": 507621,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 325,
+		"rootDomain": "rambler.ru",
+		"linkingRootDomains": 228686,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 326,
+		"rootDomain": "spiegel.de",
+		"linkingRootDomains": 262549,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 327,
+		"rootDomain": "tripadvisor.com",
+		"linkingRootDomains": 447632,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 328,
+		"rootDomain": "twitch.tv",
+		"linkingRootDomains": 303238,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 329,
+		"rootDomain": "mashable.com",
+		"linkingRootDomains": 342295,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 330,
+		"rootDomain": "google.ca",
+		"linkingRootDomains": 292898,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 331,
+		"rootDomain": "oracle.com",
+		"linkingRootDomains": 520258,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 332,
+		"rootDomain": "www.weebly.com",
+		"linkingRootDomains": 337850,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 333,
+		"rootDomain": "academia.edu",
+		"linkingRootDomains": 284420,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 334,
+		"rootDomain": "vox.com",
+		"linkingRootDomains": 377166,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 335,
+		"rootDomain": "ox.ac.uk",
+		"linkingRootDomains": 218011,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 336,
+		"rootDomain": "gmail.com",
+		"linkingRootDomains": 179874,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 337,
+		"rootDomain": "asus.com",
+		"linkingRootDomains": 137689,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 338,
+		"rootDomain": "surveymonkey.com",
+		"linkingRootDomains": 383821,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 339,
+		"rootDomain": "variety.com",
+		"linkingRootDomains": 197956,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 340,
+		"rootDomain": "sputniknews.com",
+		"linkingRootDomains": 135434,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 341,
+		"rootDomain": "standard.co.uk",
+		"linkingRootDomains": 143561,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 342,
+		"rootDomain": "thetimes.co.uk",
+		"linkingRootDomains": 296379,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 343,
+		"rootDomain": "nationalgeographic.com",
+		"linkingRootDomains": 527693,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 344,
+		"rootDomain": "channel4.com",
+		"linkingRootDomains": 141948,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 345,
+		"rootDomain": "sciencedaily.com",
+		"linkingRootDomains": 286647,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 346,
+		"rootDomain": "berkeley.edu",
+		"linkingRootDomains": 388094,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 347,
+		"rootDomain": "shopify.com",
+		"linkingRootDomains": 1306162,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 348,
+		"rootDomain": "googleblog.com",
+		"linkingRootDomains": 212596,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 349,
+		"rootDomain": "www.wikipedia.org",
+		"linkingRootDomains": 515608,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 350,
+		"rootDomain": "newyorker.com",
+		"linkingRootDomains": 316899,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 351,
+		"rootDomain": "espn.com",
+		"linkingRootDomains": 303320,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 352,
+		"rootDomain": "box.com",
+		"linkingRootDomains": 231059,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 353,
+		"rootDomain": "sedo.com",
+		"linkingRootDomains": 2605254,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 354,
+		"rootDomain": "ziddu.com",
+		"linkingRootDomains": 166547,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 355,
+		"rootDomain": "sfgate.com",
+		"linkingRootDomains": 315751,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 356,
+		"rootDomain": "wiley.com",
+		"linkingRootDomains": 436498,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 357,
+		"rootDomain": "icann.org",
+		"linkingRootDomains": 443990,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 358,
+		"rootDomain": "dell.com",
+		"linkingRootDomains": 206290,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 359,
+		"rootDomain": "e-recht24.de",
+		"linkingRootDomains": 438830,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 360,
+		"rootDomain": "doubleclick.net",
+		"linkingRootDomains": 644585,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 361,
+		"rootDomain": "xbox.com",
+		"linkingRootDomains": 144163,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 362,
+		"rootDomain": "target.com",
+		"linkingRootDomains": 225232,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 363,
+		"rootDomain": "naver.com",
+		"linkingRootDomains": 427435,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 364,
+		"rootDomain": "huffpost.com",
+		"linkingRootDomains": 413348,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 365,
+		"rootDomain": "spotify.com",
+		"linkingRootDomains": 1121020,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 366,
+		"rootDomain": "wa.me",
+		"linkingRootDomains": 487853,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 367,
+		"rootDomain": "zendesk.com",
+		"linkingRootDomains": 448831,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 368,
+		"rootDomain": "google.co.id",
+		"linkingRootDomains": 138144,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 369,
+		"rootDomain": "cbc.ca",
+		"linkingRootDomains": 345587,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 370,
+		"rootDomain": "utexas.edu",
+		"linkingRootDomains": 229601,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 371,
+		"rootDomain": "indiatimes.com",
+		"linkingRootDomains": 332799,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 372,
+		"rootDomain": "nginx.com",
+		"linkingRootDomains": 472527,
+		"domainAuthority": 93
+	},
+	{
+		"rank": 373,
+		"rootDomain": "udemy.com",
+		"linkingRootDomains": 148796,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 374,
+		"rootDomain": "sina.com.cn",
+		"linkingRootDomains": 1086640,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 375,
+		"rootDomain": "ndtv.com",
+		"linkingRootDomains": 149984,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 376,
+		"rootDomain": "greenpeace.org",
+		"linkingRootDomains": 153216,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 377,
+		"rootDomain": "coursera.org",
+		"linkingRootDomains": 135833,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 378,
+		"rootDomain": "corriere.it",
+		"linkingRootDomains": 141213,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 379,
+		"rootDomain": "csmonitor.com",
+		"linkingRootDomains": 167147,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 380,
+		"rootDomain": "iubenda.com",
+		"linkingRootDomains": 185664,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 381,
+		"rootDomain": "searchenginejournal.com",
+		"linkingRootDomains": 266766,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 382,
+		"rootDomain": "behance.net",
+		"linkingRootDomains": 670764,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 383,
+		"rootDomain": "house.gov",
+		"linkingRootDomains": 227834,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 384,
+		"rootDomain": "dribbble.com",
+		"linkingRootDomains": 396962,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 385,
+		"rootDomain": "weforum.org",
+		"linkingRootDomains": 149010,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 386,
+		"rootDomain": "wiktionary.org",
+		"linkingRootDomains": 241059,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 387,
+		"rootDomain": "m.me",
+		"linkingRootDomains": 168412,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 388,
+		"rootDomain": "axs.com",
+		"linkingRootDomains": 221643,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 389,
+		"rootDomain": "airbnb.com",
+		"linkingRootDomains": 165898,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 390,
+		"rootDomain": "about.me",
+		"linkingRootDomains": 278279,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 391,
+		"rootDomain": "a8.net",
+		"linkingRootDomains": 421107,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 392,
+		"rootDomain": "viagens.com.br",
+		"linkingRootDomains": 126861,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 393,
+		"rootDomain": "steamcommunity.com",
+		"linkingRootDomains": 179201,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 394,
+		"rootDomain": "adweek.com",
+		"linkingRootDomains": 163196,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 395,
+		"rootDomain": "thedailybeast.com",
+		"linkingRootDomains": 202141,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 396,
+		"rootDomain": "amazon.it",
+		"linkingRootDomains": 124737,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 397,
+		"rootDomain": "thehill.com",
+		"linkingRootDomains": 170287,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 398,
+		"rootDomain": "snapchat.com",
+		"linkingRootDomains": 156593,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 399,
+		"rootDomain": "xing.com",
+		"linkingRootDomains": 403793,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 400,
+		"rootDomain": "offset.com",
+		"linkingRootDomains": 829564,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 401,
+		"rootDomain": "zdnet.com",
+		"linkingRootDomains": 239121,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 402,
+		"rootDomain": "orange.fr",
+		"linkingRootDomains": 168127,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 403,
+		"rootDomain": "e-monsite.com",
+		"linkingRootDomains": 138761,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 404,
+		"rootDomain": "ebay.co.uk",
+		"linkingRootDomains": 200744,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 405,
+		"rootDomain": "tabelog.com",
+		"linkingRootDomains": 139343,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 406,
+		"rootDomain": "answers.com",
+		"linkingRootDomains": 214680,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 407,
+		"rootDomain": "thefreedictionary.com",
+		"linkingRootDomains": 191395,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 408,
+		"rootDomain": "thestar.com",
+		"linkingRootDomains": 182018,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 409,
+		"rootDomain": "discovery.com",
+		"linkingRootDomains": 218786,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 410,
+		"rootDomain": "slate.com",
+		"linkingRootDomains": 304576,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 411,
+		"rootDomain": "oecd.org",
+		"linkingRootDomains": 159867,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 412,
+		"rootDomain": "answers.yahoo.com",
+		"linkingRootDomains": 187322,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 413,
+		"rootDomain": "dreniq.com",
+		"linkingRootDomains": 329321,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 414,
+		"rootDomain": "so-net.ne.jp",
+		"linkingRootDomains": 172287,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 415,
+		"rootDomain": "giphy.com",
+		"linkingRootDomains": 319249,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 416,
+		"rootDomain": "doi.org",
+		"linkingRootDomains": 319563,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 417,
+		"rootDomain": "medicalnewstoday.com",
+		"linkingRootDomains": 172898,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 418,
+		"rootDomain": "entrepreneur.com",
+		"linkingRootDomains": 217160,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 419,
+		"rootDomain": "cia.gov",
+		"linkingRootDomains": 133953,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 420,
+		"rootDomain": "ca.gov",
+		"linkingRootDomains": 374792,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 421,
+		"rootDomain": "consumerreports.org",
+		"linkingRootDomains": 146970,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 422,
+		"rootDomain": "pastebin.com",
+		"linkingRootDomains": 167937,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 423,
+		"rootDomain": "statista.com",
+		"linkingRootDomains": 183541,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 424,
+		"rootDomain": "arstechnica.com",
+		"linkingRootDomains": 209641,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 425,
+		"rootDomain": "rollingstone.com",
+		"linkingRootDomains": 240252,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 426,
+		"rootDomain": "imgur.com",
+		"linkingRootDomains": 1118888,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 427,
+		"rootDomain": "politico.com",
+		"linkingRootDomains": 206464,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 428,
+		"rootDomain": "inc.com",
+		"linkingRootDomains": 205422,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 429,
+		"rootDomain": "zeit.de",
+		"linkingRootDomains": 126370,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 430,
+		"rootDomain": "20minutos.es",
+		"linkingRootDomains": 120523,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 431,
+		"rootDomain": "techradar.com",
+		"linkingRootDomains": 127153,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 432,
+		"rootDomain": "merriam-webster.com",
+		"linkingRootDomains": 232352,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 433,
+		"rootDomain": "fortune.com",
+		"linkingRootDomains": 211392,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 434,
+		"rootDomain": "bp1.blogger.com",
+		"linkingRootDomains": 521046,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 435,
+		"rootDomain": "asahi.com",
+		"linkingRootDomains": 160547,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 436,
+		"rootDomain": "businesswire.com",
+		"linkingRootDomains": 227921,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 437,
+		"rootDomain": "autodesk.com",
+		"linkingRootDomains": 127297,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 438,
+		"rootDomain": "pcmag.com",
+		"linkingRootDomains": 187071,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 439,
+		"rootDomain": "cmu.edu",
+		"linkingRootDomains": 201045,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 440,
+		"rootDomain": "groups.yahoo.com",
+		"linkingRootDomains": 299429,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 441,
+		"rootDomain": "brandbucket.com",
+		"linkingRootDomains": 284469,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 442,
+		"rootDomain": "calendar.google.com",
+		"linkingRootDomains": 137747,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 443,
+		"rootDomain": "vkontakte.ru",
+		"linkingRootDomains": 369044,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 444,
+		"rootDomain": "xinhuanet.com",
+		"linkingRootDomains": 609581,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 445,
+		"rootDomain": "www.livejournal.com",
+		"linkingRootDomains": 3038072,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 446,
+		"rootDomain": "megaupload.com",
+		"linkingRootDomains": 242074,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 447,
+		"rootDomain": "sakura.ne.jp",
+		"linkingRootDomains": 360457,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 448,
+		"rootDomain": "ameblo.jp",
+		"linkingRootDomains": 735675,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 449,
+		"rootDomain": "geocities.com",
+		"linkingRootDomains": 538712,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 450,
+		"rootDomain": "fastcompany.com",
+		"linkingRootDomains": 252636,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 451,
+		"rootDomain": "www.canalblog.com",
+		"linkingRootDomains": 393150,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 452,
+		"rootDomain": "ucoz.ru",
+		"linkingRootDomains": 181793,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 453,
+		"rootDomain": "interia.pl",
+		"linkingRootDomains": 151052,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 454,
+		"rootDomain": "debian.org",
+		"linkingRootDomains": 328592,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 455,
+		"rootDomain": "usgs.gov",
+		"linkingRootDomains": 193384,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 456,
+		"rootDomain": "teamviewer.com",
+		"linkingRootDomains": 147524,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 457,
+		"rootDomain": "outlook.com",
+		"linkingRootDomains": 196135,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 458,
+		"rootDomain": "thenextweb.com",
+		"linkingRootDomains": 166469,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 459,
+		"rootDomain": "amazon.ca",
+		"linkingRootDomains": 176644,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 460,
+		"rootDomain": "billboard.com",
+		"linkingRootDomains": 162495,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 461,
+		"rootDomain": "thoughtco.com",
+		"linkingRootDomains": 291025,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 462,
+		"rootDomain": "gutenberg.org",
+		"linkingRootDomains": 155048,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 463,
+		"rootDomain": "disney.go.com",
+		"linkingRootDomains": 163705,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 464,
+		"rootDomain": "lycos.com",
+		"linkingRootDomains": 676622,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 465,
+		"rootDomain": "fb.me",
+		"linkingRootDomains": 231688,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 466,
+		"rootDomain": "archives.gov",
+		"linkingRootDomains": 211906,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 467,
+		"rootDomain": "irs.gov",
+		"linkingRootDomains": 246667,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 468,
+		"rootDomain": "fifa.com",
+		"linkingRootDomains": 140622,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 469,
+		"rootDomain": "epa.gov",
+		"linkingRootDomains": 281328,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 470,
+		"rootDomain": "iso.org",
+		"linkingRootDomains": 168244,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 471,
+		"rootDomain": "mail.yahoo.com",
+		"linkingRootDomains": 171081,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 472,
+		"rootDomain": "qq.com",
+		"linkingRootDomains": 4182128,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 473,
+		"rootDomain": "allaboutcookies.org",
+		"linkingRootDomains": 338911,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 474,
+		"rootDomain": "springer.com",
+		"linkingRootDomains": 344117,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 475,
+		"rootDomain": "public-api.wordpress.com",
+		"linkingRootDomains": 172457,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 476,
+		"rootDomain": "sky.com",
+		"linkingRootDomains": 183154,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 477,
+		"rootDomain": "imageshack.com",
+		"linkingRootDomains": 434864,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 478,
+		"rootDomain": "prestashop.com",
+		"linkingRootDomains": 159128,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 479,
+		"rootDomain": "cbslocal.com",
+		"linkingRootDomains": 266747,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 480,
+		"rootDomain": "intel.com",
+		"linkingRootDomains": 220590,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 481,
+		"rootDomain": "prezi.com",
+		"linkingRootDomains": 215561,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 482,
+		"rootDomain": "indiegogo.com",
+		"linkingRootDomains": 216025,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 483,
+		"rootDomain": "marketwatch.com",
+		"linkingRootDomains": 280577,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 484,
+		"rootDomain": "mhlw.go.jp",
+		"linkingRootDomains": 138215,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 485,
+		"rootDomain": "stuff.co.nz",
+		"linkingRootDomains": 135617,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 486,
+		"rootDomain": "storage.canalblog.com",
+		"linkingRootDomains": 278034,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 487,
+		"rootDomain": "eff.org",
+		"linkingRootDomains": 136179,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 488,
+		"rootDomain": "soratemplates.com",
+		"linkingRootDomains": 207723,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 489,
+		"rootDomain": "home.neustar",
+		"linkingRootDomains": 481095,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 490,
+		"rootDomain": "evernote.com",
+		"linkingRootDomains": 256033,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 491,
+		"rootDomain": "reverbnation.com",
+		"linkingRootDomains": 185588,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 492,
+		"rootDomain": "marriott.com",
+		"linkingRootDomains": 324636,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 493,
+		"rootDomain": "histats.com",
+		"linkingRootDomains": 450333,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 494,
+		"rootDomain": "ap.org",
+		"linkingRootDomains": 176019,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 495,
+		"rootDomain": "amazon.in",
+		"linkingRootDomains": 135180,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 496,
+		"rootDomain": "illinois.edu",
+		"linkingRootDomains": 185846,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 497,
+		"rootDomain": "allrecipes.com",
+		"linkingRootDomains": 149877,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 498,
+		"rootDomain": "repubblica.it",
+		"linkingRootDomains": 169426,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 499,
+		"rootDomain": "biblegateway.com",
+		"linkingRootDomains": 203891,
+		"domainAuthority": 92
+	},
+	{
+		"rank": 500,
+		"rootDomain": "ibtimes.com",
+		"linkingRootDomains": 155915,
+		"domainAuthority": 92
+	}
+]
