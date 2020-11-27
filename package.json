@@ -83,7 +83,8 @@
     "release:tags": "git push --follow-tags origin HEAD:master",
     "test": "nyc ava",
     "update": "ncu -u",
-    "update:check": "ncu -- --error-level 2"
+    "update:check": "ncu -- --error-level 2",
+    "update:top-sites": "(npm run postinstall && git add index.json && git commit -m 'build(update): top-sites' --no-verify && git push) || true"
   },
   "license": "MIT",
   "commitlint": {
