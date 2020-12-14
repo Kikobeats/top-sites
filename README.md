@@ -6,7 +6,6 @@
 [![Dependency status](https://img.shields.io/david/Kikobeats/top-sites.svg?style=flat-square)](https://david-dm.org/Kikobeats/top-sites)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/top-sites.svg?style=flat-square)](https://david-dm.org/Kikobeats/top-sites#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/top-sites.svg?style=flat-square)](https://www.npmjs.org/package/top-sites)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
 > List of the top 500 domains and pages on the web. Based on [Moz Top 500](https://moz.com/top500).
 
