@@ -3,8 +3,6 @@
 ![Last version](https://img.shields.io/github/tag/Kikobeats/top-sites.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/top-sites/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/top-sites)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/top-sites.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/top-sites)
-[![Dependency status](https://img.shields.io/david/Kikobeats/top-sites.svg?style=flat-square)](https://david-dm.org/Kikobeats/top-sites)
-[![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/top-sites.svg?style=flat-square)](https://david-dm.org/Kikobeats/top-sites#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/top-sites.svg?style=flat-square)](https://www.npmjs.org/package/top-sites)
 
 > List of the top 500 domains and pages on the web. Based on [Moz Top 500](https://moz.com/top500).
