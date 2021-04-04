@@ -34,9 +34,9 @@
     "websites"
   ],
   "dependencies": {
-    "cheerio": "~1.0.0-rc.3",
-    "got": "~11.8.0",
-    "lodash": "~4.17.20",
+    "cheerio": "~1.0.0-rc.5",
+    "got": "~11.8.2",
+    "lodash": "~4.17.21",
     "p-any": "~3.0.0",
     "papaparse": "~5.3.0",
     "parse-decimal-number": "~1.0.0",
