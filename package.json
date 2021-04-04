@@ -70,6 +70,7 @@
   ],
   "scripts": {
     "clean": "rm -rf node_modules",
+    "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "cronjob": "npm run update:top-sites && npm run healthcheck",
     "healthcheck": "curl -sL https://hc-ping.com/090e8609-2647-4bad-b199-f597be6bf8bc",
@@ -77,7 +78,7 @@
     "postinstall": "node scripts/postinstall",
     "postrelease": "npm run release:tags && npm run release:github && ci-publish",
     "precommit": "lint-staged",
-    "prerelease": "npm run update:check",
+    "prerelease": "npm run update:check && npm run contributors && npm run cronjob",
     "pretest": "npm run lint",
     "pretty": "prettier-standard index.js {core,test,bin}/**/*.js --single-quote",
     "release": "git-authors-cli && git add package.json && standard-version -a",
