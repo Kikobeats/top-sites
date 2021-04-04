@@ -76,7 +76,7 @@
     "healthcheck": "curl -sL https://hc-ping.com/090e8609-2647-4bad-b199-f597be6bf8bc",
     "lint": "standard-markdown README.md && standard",
     "postinstall": "node scripts/postinstall",
-    "postrelease": "npm run release:tags && npm run release:github && ci-publish",
+    "postrelease": "npm run release:tags && npm run release:github && (ci-publish || npm publish --access=public)",
     "precommit": "lint-staged",
     "prerelease": "npm run update:check && npm run contributors && npm run cronjob",
     "pretest": "npm run lint",
