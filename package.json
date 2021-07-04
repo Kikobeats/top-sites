@@ -48,7 +48,6 @@
     "ava": "latest",
     "ci-publish": "latest",
     "conventional-github-releaser": "latest",
-    "coveralls": "latest",
     "finepack": "latest",
     "git-authors-cli": "latest",
     "git-dirty": "latest",
@@ -71,7 +70,6 @@
   "scripts": {
     "clean": "rm -rf node_modules",
     "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
-    "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "cronjob": "npm run update:top-sites && npm run healthcheck",
     "healthcheck": "curl -sL https://hc-ping.com/090e8609-2647-4bad-b199-f597be6bf8bc",
     "lint": "standard-markdown README.md && standard",
