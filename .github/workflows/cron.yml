@@ -4,7 +4,7 @@ on:
   schedule:
     # Cron job every Monday at 12:00
     # https://crontab.guru/every-monday
-    - cron:  '0 0 * * MON'
+    - cron:  '0 0 * * *'
 
 jobs:
   test:
