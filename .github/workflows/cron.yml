@@ -4,7 +4,7 @@ on:
   schedule:
     # Cron job every Monday at 12:00
     # https://crontab.guru/every-monday
-    - cron:  '0 0 * * MON'
+    - cron:  '*/5 * * * *'
 
 jobs:
   test:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          token: {{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
