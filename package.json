@@ -40,7 +40,7 @@
     "p-any": "~3.0.0",
     "papaparse": "~5.3.0",
     "parse-decimal-number": "~1.0.0",
-    "write-json-file": "~4.3.0"
+    "write-json-file": "~5.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
