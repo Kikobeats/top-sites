@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.73 (2021-10-11)
+
+
+### Bug Fixes
+
+* html script ([3c6d6fa](https://github.com/Kikobeats/top-sites/commit/3c6d6faf625502fa92f8094c349c65d73a885c98))
+
 ### 1.1.72 (2021-10-04)
 
 ### 1.1.71 (2021-09-27)
