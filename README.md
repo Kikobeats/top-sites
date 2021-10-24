@@ -48,7 +48,7 @@ console.log(topSites)
 
 ## Related
 
-- [https://tranco-list.eu/](tranco-list.eu) – A Research-Oriented Top Sites Ranking Hardened Against Manipulation.
+- [tranco-list.eu](https://tranco-list.eu) – A Research-Oriented Top Sites Ranking Hardened Against Manipulation.
 
 ## License
 
