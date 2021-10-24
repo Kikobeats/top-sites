@@ -46,6 +46,10 @@ console.log(topSites)
 // ]
 ```
 
+## Related
+
+- [https://tranco-list.eu/](tranco-list.eu) – A Research-Oriented Top Sites Ranking Hardened Against Manipulation.
+
 ## License
 
 **top-sites** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://github.com/Kikobeats/top-sites/blob/master/LICENSE.md) License.<br>
