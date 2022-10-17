@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: lts/*
       - name: Install
-        run: npm install --no-package-lock
+        run: npm install --no-package-lock --ignore-scripts
       - name: Cron
         run: |
           git config --global user.email ${{ secrets.GIT_EMAIL }}
