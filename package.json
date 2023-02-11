@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "cheerio": "~1.0.0-rc.5",
-    "got": "~11.8.5",
+    "got": "~11.8.6",
     "lodash": "~4.17.21",
     "p-any": "~3.0.0",
     "papaparse": "~5.3.0",
@@ -69,7 +69,7 @@
   ],
   "scripts": {
     "clean": "rm -rf node_modules",
-    "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
+    "contributors": "(npx git-authors-cli && npx finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "cronjob": "npm run update:top-sites && npm run healthcheck",
     "healthcheck": "curl -sL https://hc-ping.com/090e8609-2647-4bad-b199-f597be6bf8bc",
     "lint": "standard-markdown README.md && standard",
