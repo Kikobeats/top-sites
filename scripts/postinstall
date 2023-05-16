@@ -44,9 +44,8 @@ const fromURL = async () => {
   const $ = cheerio.load(body)
 
   const el = $('tbody tr')
-    .map(function (i, el) {
+    .map(function () {
       const selector = $(this)
-
       return {
         rank: Number(selector.find('td:nth-child(1)').text()),
         rootDomain: selector.find('td:nth-child(2)').text(),
