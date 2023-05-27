@@ -5,10 +5,10 @@
 const parseDecimalNumber = require('parse-decimal-number')
 const { includes, camelCase, reduce } = require('lodash')
 const writeJsonFile = require('write-json-file')
-const pAny = require('p-any')
+const PCancelable = require('p-cancelable')
 const cheerio = require('cheerio')
-
 const papa = require('papaparse')
+const pAny = require('p-any')
 const got = require('got')
 
 // https://www.papaparse.com/docs#config
@@ -32,15 +32,20 @@ const toMap = obj =>
     {}
   )
 
-const fromCSV = async () => {
-  const { body } = await got('https://moz.com/top-500/download/?table=top500Domains')
+const fromCSV = PCancelable.fn(async onCancel => {
+  const req = got('https://moz.com/top-500/download/?table=top500Domains')
+  onCancel(() => req.cancel())
+  const { body } = await req
   const { data } = papa.parse(body, PARSER_OPTS)
   const buffer = reduce(data, (acc, obj) => [...acc, toMap(obj)], [])
   return buffer
-}
+})
 
-const fromURL = async () => {
-  const { body } = await got('https://moz.com/top500')
+const fromURL = PCancelable.fn(async onCancel => {
+  const req = got('https://moz.com/top500')
+  onCancel(() => req.cancel())
+
+  const { body } = await req
   const $ = cheerio.load(body)
 
   const el = $('tbody tr')
@@ -56,7 +61,7 @@ const fromURL = async () => {
     .get()
 
   return el
-}
+})
 
 const main = async () => {
   const data = await pAny([fromURL(), fromCSV()])
