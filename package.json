@@ -38,7 +38,7 @@
     "got": "~11.8.6",
     "lodash": "~4.17.21",
     "p-any": "~3.0.0",
-    "p-cancelable": "2.1.1",
+    "p-cancelable": "4.0.1",
     "papaparse": "~5.4.0",
     "parse-decimal-number": "~1.0.0",
     "write-json-file": "~4.3.0"
