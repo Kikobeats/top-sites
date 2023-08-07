@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.180](https://github.com/Kikobeats/top-sites/compare/v1.1.179...v1.1.180) (2023-08-07)
+
 ### [1.1.179](https://github.com/Kikobeats/top-sites/compare/v1.1.178...v1.1.179) (2023-07-31)
 
 ### [1.1.178](https://github.com/Kikobeats/top-sites/compare/v1.1.177...v1.1.178) (2023-07-24)
