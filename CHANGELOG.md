@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.182](https://github.com/Kikobeats/top-sites/compare/v1.1.181...v1.1.182) (2023-08-22)
+
+
+### Bug Fixes
+
+* sanetize rooDomain ([94ec7a4](https://github.com/Kikobeats/top-sites/commit/94ec7a4468a94395cb1ac88dff228d984fe45095)), closes [#56](https://github.com/Kikobeats/top-sites/issues/56)
+
 ### [1.1.181](https://github.com/Kikobeats/top-sites/compare/v1.1.180...v1.1.181) (2023-08-21)
 
 ### [1.1.180](https://github.com/Kikobeats/top-sites/compare/v1.1.179...v1.1.180) (2023-08-07)
