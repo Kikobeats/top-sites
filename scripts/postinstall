@@ -49,8 +49,8 @@ const fromURL = PCancelable.fn(async onCancel => {
   const $ = cheerio.load(body)
 
   const el = $('tbody tr')
-    .map(function () {
-      const selector = $(this)
+    .map((_, element) => {
+      const selector = $(element)
       return {
         rank: Number(selector.find('td:nth-child(1)').text()),
         rootDomain: selector.find('td:nth-child(2)').text().replaceAll('\n', '').trim(),
