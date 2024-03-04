@@ -1,6 +1,7 @@
 name: cron
 
 on:
+  workflow_dispatch:
   schedule:
     # Cron job every Monday at 12:00
     # https://crontab.guru/every-monday
