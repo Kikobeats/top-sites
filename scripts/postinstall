@@ -2,8 +2,8 @@
 
 'use strict'
 
+const { orderBy, includes, camelCase, reduce } = require('lodash')
 const parseDecimalNumber = require('parse-decimal-number')
-const { includes, camelCase, reduce } = require('lodash')
 const writeJsonFile = require('write-json-file')
 const PCancelable = require('p-cancelable')
 const cheerio = require('cheerio')
@@ -37,8 +37,11 @@ const fromCSV = PCancelable.fn(async onCancel => {
   onCancel(() => req.cancel())
   const { body } = await req
   const { data } = papa.parse(body, PARSER_OPTS)
-  const buffer = reduce(data, (acc, obj) => [...acc, toMap(obj)], [])
-  return buffer
+  const items = reduce(data, (acc, obj) => [...acc, toMap(obj)], [])
+  return orderBy(items, ['linkingRootDomains'], ['desc', 'desc']).map((item, index) => {
+    item.rank = index + 1
+    return item
+  })
 })
 
 const fromURL = PCancelable.fn(async onCancel => {
