@@ -54,8 +54,8 @@ const fromURL = PCancelable.fn(async onCancel => {
       return {
         rank: Number(selector.find('td:nth-child(1)').text()),
         rootDomain: selector.find('td:nth-child(2)').text().replaceAll('\n', '').trim(),
-        linkingRootDomains: parseDecimalNumber(selector.find('td:nth-child(4)').text()),
-        domainAuthority: Number(selector.find('td:nth-child(5)').text())
+        linkingRootDomains: parseDecimalNumber(selector.find('td:nth-child(3)').text()),
+        domainAuthority: Number(selector.find('td:nth-child(4)').text())
       }
     })
     .get()
