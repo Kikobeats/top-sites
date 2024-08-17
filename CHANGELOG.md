@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.219 (2024-08-17)
+
+
+### Bug Fixes
+
+* markup ([a367636](https://github.com/Kikobeats/top-sites/commit/a3676362d92aee5142319e3f4d6d45dcf6200739))
+* sort results ([f119d4c](https://github.com/Kikobeats/top-sites/commit/f119d4cc0110ab5522566209ac9b410692c7e708))
+
 ### 1.1.218 (2024-08-17)
 
 ### 1.1.217 (2024-08-12)
