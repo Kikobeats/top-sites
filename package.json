@@ -53,7 +53,6 @@
     "npm-check-updates": "latest",
     "simple-git-hooks": "latest",
     "standard": "latest",
-    "standard-markdown": "latest",
     "standard-version": "latest"
   },
   "engines": {
@@ -68,7 +67,7 @@
     "contributors": "(npx git-authors-cli && npx finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "cronjob": "npm run update:top-sites && npm run healthcheck",
     "healthcheck": "curl -fsS -m 10 --retry 5 -o /dev/null https://hc-ping.com/89d119ec-eafe-4953-aeea-04eeb33d5e5c",
-    "lint": "standard-markdown README.md && standard",
+    "lint": "standard",
     "postinstall": "node scripts/postinstall",
     "postrelease": "npm run release:tags && npm run release:github && (ci-publish || npm publish --access=public)",
     "prerelease": "npm run update:check && npm run contributors && npm run cronjob",
@@ -97,9 +96,6 @@
     "*.js": [
       "prettier-standard",
       "standard --fix"
-    ],
-    "*.md": [
-      "standard-markdown"
     ],
     "package.json": [
       "finepack"
