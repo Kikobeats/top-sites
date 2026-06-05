@@ -68,7 +68,7 @@
     "healthcheck": "curl -fsS -m 10 --retry 5 -o /dev/null https://hc-ping.com/89d119ec-eafe-4953-aeea-04eeb33d5e5c",
     "lint": "standard",
     "postrelease": "npm run release:tags && npm run release:github && (ci-publish || npm publish --access=public)",
-    "prerelease": "npm run update:check && npm run contributors && npm run cronjob",
+    "prerelease": "npm run contributors && npm run cronjob",
     "pretest": "npm run lint",
     "pretty": "prettier-standard index.js {core,test,bin}/**/*.js --single-quote",
     "release": "git-authors-cli && git add package.json && standard-version -a",
