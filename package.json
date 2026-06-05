@@ -57,16 +57,16 @@
     "node": ">= 6"
   },
   "files": [
-    "index.js",
-    "scripts"
+    "scripts",
+    "top-sites.json"
   ],
   "scripts": {
+    "build": "node scripts/postinstall",
     "clean": "rm -rf node_modules",
     "contributors": "(npx git-authors-cli && npx finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "cronjob": "npm run update:top-sites && npm run healthcheck",
     "healthcheck": "curl -fsS -m 10 --retry 5 -o /dev/null https://hc-ping.com/89d119ec-eafe-4953-aeea-04eeb33d5e5c",
     "lint": "standard",
-    "postinstall": "node scripts/postinstall",
     "postrelease": "npm run release:tags && npm run release:github && (ci-publish || npm publish --access=public)",
     "prerelease": "npm run update:check && npm run contributors && npm run cronjob",
     "pretest": "npm run lint",
@@ -75,7 +75,7 @@
     "release:github": "github-generate-release",
     "release:tags": "git push --follow-tags origin HEAD:master",
     "test": "c8 ava",
-    "update:top-sites": "(npm run postinstall && git add top-sites.json && git commit -m 'build(cron): update top-sites' --no-verify && git push) || true"
+    "update:top-sites": "(npm run build && git add top-sites.json && git commit -m 'build(cron): update top-sites' --no-verify && git push) || true"
   },
   "license": "MIT",
   "commitlint": {
