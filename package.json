@@ -28,30 +28,28 @@
     "top500",
     "websites"
   ],
-  "dependencies": {
-    "cheerio": "~1.2.0",
-    "got": "~11.8.6",
-    "lodash": "~4.18.1",
-    "p-any": "~3.0.0",
-    "p-cancelable": "2.1.1",
-    "papaparse": "~5.5.0",
-    "parse-decimal-number": "~1.0.0",
-    "write-json-file": "~4.3.0"
-  },
   "devDependencies": {
     "@commitlint/cli": "latest",
     "@commitlint/config-conventional": "latest",
     "ava": "7",
     "c8": "latest",
+    "cheerio": "~1.2.0",
     "ci-publish": "latest",
     "finepack": "latest",
     "git-authors-cli": "latest",
     "git-dirty": "latest",
     "github-generate-release": "latest",
+    "got": "~11.8.6",
+    "lodash": "~4.18.1",
     "nano-staged": "latest",
+    "p-any": "~3.0.0",
+    "p-cancelable": "2.1.1",
+    "papaparse": "~5.5.0",
+    "parse-decimal-number": "~1.0.0",
     "simple-git-hooks": "latest",
     "standard": "latest",
-    "standard-version": "latest"
+    "standard-version": "latest",
+    "write-json-file": "~4.3.0"
   },
   "engines": {
     "node": ">= 6"
