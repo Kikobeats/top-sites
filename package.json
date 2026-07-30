@@ -1,6 +1,6 @@
 {
   "name": "top-sites",
-  "description": "List of the top 500 domains and pages on the web",
+  "description": "Dataset of the top 500 websites and domains by popularity for benchmarks and research.",
   "homepage": "https://github.com/Kikobeats/top-sites",
   "version": "1.1.225",
   "main": "top-sites.json",
@@ -18,13 +18,14 @@
     "url": "https://github.com/Kikobeats/top-sites/issues"
   },
   "keywords": [
-    "best",
+    "alexa",
+    "benchmark",
+    "dataset",
     "domains",
     "moz",
-    "pages",
+    "popular",
     "rank",
-    "sites",
-    "top",
+    "top-sites",
     "top500",
     "websites"
   ],
